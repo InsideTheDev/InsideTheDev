@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello World, I'm Inside!
 
-<!--
-**InsideTheDev/InsideTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 **Computer Science Student** passionate about coding and automation.
+- 🔭 Currently working on **Python projects** and **GameDev**.
+- 🌱 Learning **AI, game development, and automation**.
+- 🎯 Interested in **open-source contributions** and **tech innovations**.
 
-Here are some ideas to get you started:
+### 💻 Technologies & Tools
+- ⚡ **Languages:** Python, Go, , SQL, HTML/CSS
+- 🛠️ **Tools & Frameworks:** VS Code, GitHub
+- 🖥️ **OS:** Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+🌟 **[AutoClicker](https://github.com/InsideTheDev/AutoClicker)** - A Python GUI-based AutoClicker.  
+🔹 More projects coming soon!
+
+### 📫 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+
+---
+**"One life, it's worth an attempt!"**  
