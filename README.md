@@ -7,7 +7,7 @@
 - 🎯 Interested in **open-source contributions** and **tech innovations**.
 
 ### 💻 Technologies & Tools
-- ⚡ **Languages:** Python, Go, , SQL, HTML/CSS
+- ⚡ **Languages:** Python, Go, SQL, HTML/CSS
 - 🛠️ **Tools & Frameworks:** VS Code, GitHub
 - 🖥️ **OS:** Windows
 
