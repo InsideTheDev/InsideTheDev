@@ -13,7 +13,7 @@
 - 🖥️ **OS:** Windows
 
 ### 📌 Projects
-🌟 **[AutoClicker]((https://github.com/InsideTheDev/Automation_AutoClicker))** - A Python GUI-based AutoClicker.  
+🌟 **[AutoClicker](https://github.com/InsideTheDev/Automation_AutoClicker)** - A Python GUI-based AutoClicker.  
 🔹 More projects coming soon!
 
 ### 📫 Connect with Me
