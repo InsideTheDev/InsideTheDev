@@ -2,8 +2,9 @@
 
 ### 🚀 About Me
 - 🎓 **Computer Science Student** passionate about coding and automation.
+- 💡 Aspiring **Developer & Data Enthusiast**
 - 🔭 Currently working on **Python projects** and **GameDev**.
-- 🌱 Learning **AI, game development, and automation**.
+- 💻 Currently learning **Python, SQL, and Machine Learning**
 - 🎯 Interested in **open-source contributions** and **tech innovations**.
 
 ### 💻 Technologies & Tools
